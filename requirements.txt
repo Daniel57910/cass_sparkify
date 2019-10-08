@@ -1,0 +1,4 @@
+cassandra-driver
+pep8
+pandas
+jupyter
