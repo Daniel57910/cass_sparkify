@@ -16,7 +16,7 @@ Music company sparkify generate CSV files that record song play data in their ap
 * Run jupyter notebook dmiller_cass_sparkify_notebook.ipynb
 * Execute the jupyter notebook dmiller_cass_sparkify_project
 
-Results should look something like this:
+Results should look something like this (without the warning message):
 ![Results](diagrams/results.jpg)
 
 #### Additional Steps
